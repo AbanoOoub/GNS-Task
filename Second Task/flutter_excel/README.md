@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started ( How To Run ):
+## Getting Started ( How To Run )
+
 1- create excel file name it ex: fileName.xlsx
 
 2- put the excel file in assets folder inside the project
