@@ -1,0 +1,10 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "description": "how to write clean code",
+      "price": 100
+    }
+  ]
+}
