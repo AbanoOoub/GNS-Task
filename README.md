@@ -1,4 +1,4 @@
-# GNS-Task
+# GNS-Tasks
 
 First Task:
 # crud_operations_app
