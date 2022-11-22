@@ -2,15 +2,24 @@
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started ( How To Run )
 
-This project is a starting point for a Flutter application.
+1- open file called "server"
 
-A few resources to get you started if this is your first Flutter project:
+2- open file called "book store app server" with visual studio 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+3- in the terminal write -> npm start
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4- then you can see the json data 
+
+5- open flutter app with andriod studio
+
+6- run application in web
+
+7- then you can show, add, update, and delete books 
+
+Notes:
+ * to remove book -> swipe the book to the left
+ * to update book -> click on book to write new data
+ * when you change any thing any json file manually you need to save it before any operations
+
