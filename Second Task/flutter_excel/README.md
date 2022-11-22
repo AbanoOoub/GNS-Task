@@ -13,7 +13,7 @@ A new Flutter project.
 
 5- press solve button
 
-6- the app automatically download 2 file as following:
+6- the app automatically download 2 files as following:
   * 0_fileName.xlsx
   * 1_fileName.xlsx
   
